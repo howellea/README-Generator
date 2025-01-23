@@ -1,6 +1,3 @@
-# README-Generator
-Professional README Generator created for home work 7
-usefull links: 
 # README-GENERATOR
 
 Create a dynamic and professional README.md file using CLI prompts powered by Inquirer.
@@ -62,8 +59,7 @@ To test the application:
 
 1. Run the app in development mode:  
    ```bash
-   node index.js or 
-   npm start
+   node index.js
    ```
 2. Enter sample input to verify that the generated README.md file meets your expectations.  
 3. Open the generated README.md file and check for accuracy and proper formatting.
@@ -71,15 +67,11 @@ To test the application:
 ## Credits
 
 GitHub username: howellea  
-GitHub profile: 
-[README-Generator](https://github.com/howellea/README-Generator)
-NPM Inquirer Documentation:
-[Inquirer Documentation]https://www.npmjs.com/package/inquirer#prompt-types
-Inquier Implementation Article: 
-[Blog Article]https://javascript.plainenglish.io/how-to-inquirer-js-c10a4e05ef1f
+GitHub profile: [https://github.com/howellea/README-Generator](https://github.com/howellea/README-Generator)
 
 ## Questions
 
 If you have any questions or would like to discuss this project further, feel free to contact me:  
 - GitHub: [howellea](https://github.com/howellea/README-Generator)  
 - Email: [howelleddy@gmail.com](mailto:howelleddy@gmail.com)
+
